@@ -1,0 +1,7 @@
+C:\cprog\Strings-ASSIGNMENT6\stringtoint\bin\Debug\stringtoint.exe.config
+C:\cprog\Strings-ASSIGNMENT6\stringtoint\bin\Debug\stringtoint.exe
+C:\cprog\Strings-ASSIGNMENT6\stringtoint\bin\Debug\stringtoint.pdb
+C:\cprog\Strings-ASSIGNMENT6\stringtoint\obj\Debug\stringtoint.csprojAssemblyReference.cache
+C:\cprog\Strings-ASSIGNMENT6\stringtoint\obj\Debug\stringtoint.csproj.CoreCompileInputs.cache
+C:\cprog\Strings-ASSIGNMENT6\stringtoint\obj\Debug\stringtoint.exe
+C:\cprog\Strings-ASSIGNMENT6\stringtoint\obj\Debug\stringtoint.pdb

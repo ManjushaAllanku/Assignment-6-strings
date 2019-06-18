@@ -1,0 +1,7 @@
+C:\cprog\Strings-ASSIGNMENT6\Romantointegers\bin\Debug\Romantointegers.exe.config
+C:\cprog\Strings-ASSIGNMENT6\Romantointegers\bin\Debug\Romantointegers.exe
+C:\cprog\Strings-ASSIGNMENT6\Romantointegers\bin\Debug\Romantointegers.pdb
+C:\cprog\Strings-ASSIGNMENT6\Romantointegers\obj\Debug\Romantointegers.csprojAssemblyReference.cache
+C:\cprog\Strings-ASSIGNMENT6\Romantointegers\obj\Debug\Romantointegers.csproj.CoreCompileInputs.cache
+C:\cprog\Strings-ASSIGNMENT6\Romantointegers\obj\Debug\Romantointegers.exe
+C:\cprog\Strings-ASSIGNMENT6\Romantointegers\obj\Debug\Romantointegers.pdb

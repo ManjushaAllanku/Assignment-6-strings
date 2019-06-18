@@ -1,0 +1,7 @@
+C:\cprog\Dynamicprogramming\LCSofTwoStrings\obj\Debug\LCSofTwoStrings.csprojAssemblyReference.cache
+C:\cprog\Dynamicprogramming\LCSofTwoStrings\obj\Debug\LCSofTwoStrings.csproj.CoreCompileInputs.cache
+C:\cprog\Dynamicprogramming\LCSofTwoStrings\bin\Debug\LCSofTwoStrings.exe.config
+C:\cprog\Dynamicprogramming\LCSofTwoStrings\bin\Debug\LCSofTwoStrings.exe
+C:\cprog\Dynamicprogramming\LCSofTwoStrings\bin\Debug\LCSofTwoStrings.pdb
+C:\cprog\Dynamicprogramming\LCSofTwoStrings\obj\Debug\LCSofTwoStrings.exe
+C:\cprog\Dynamicprogramming\LCSofTwoStrings\obj\Debug\LCSofTwoStrings.pdb

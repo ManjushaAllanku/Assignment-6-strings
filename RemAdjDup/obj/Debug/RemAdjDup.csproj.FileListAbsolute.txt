@@ -1,0 +1,7 @@
+C:\cprog\Dynamicprogramming\RemAdjDup\bin\Debug\RemAdjDup.exe.config
+C:\cprog\Dynamicprogramming\RemAdjDup\bin\Debug\RemAdjDup.exe
+C:\cprog\Dynamicprogramming\RemAdjDup\bin\Debug\RemAdjDup.pdb
+C:\cprog\Dynamicprogramming\RemAdjDup\obj\Debug\RemAdjDup.csprojAssemblyReference.cache
+C:\cprog\Dynamicprogramming\RemAdjDup\obj\Debug\RemAdjDup.csproj.CoreCompileInputs.cache
+C:\cprog\Dynamicprogramming\RemAdjDup\obj\Debug\RemAdjDup.exe
+C:\cprog\Dynamicprogramming\RemAdjDup\obj\Debug\RemAdjDup.pdb

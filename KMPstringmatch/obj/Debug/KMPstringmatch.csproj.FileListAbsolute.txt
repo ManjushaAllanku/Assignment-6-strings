@@ -1,0 +1,7 @@
+C:\cprog\Strings-ASSIGNMENT6\KMPstringmatch\bin\Debug\KMPstringmatch.exe.config
+C:\cprog\Strings-ASSIGNMENT6\KMPstringmatch\bin\Debug\KMPstringmatch.exe
+C:\cprog\Strings-ASSIGNMENT6\KMPstringmatch\bin\Debug\KMPstringmatch.pdb
+C:\cprog\Strings-ASSIGNMENT6\KMPstringmatch\obj\Debug\KMPstringmatch.csprojAssemblyReference.cache
+C:\cprog\Strings-ASSIGNMENT6\KMPstringmatch\obj\Debug\KMPstringmatch.csproj.CoreCompileInputs.cache
+C:\cprog\Strings-ASSIGNMENT6\KMPstringmatch\obj\Debug\KMPstringmatch.exe
+C:\cprog\Strings-ASSIGNMENT6\KMPstringmatch\obj\Debug\KMPstringmatch.pdb

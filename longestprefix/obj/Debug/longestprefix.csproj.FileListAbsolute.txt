@@ -1,0 +1,2 @@
+C:\cprog\Strings-ASSIGNMENT6\longestprefix\obj\Debug\longestprefix.csprojAssemblyReference.cache
+C:\cprog\Strings-ASSIGNMENT6\longestprefix\obj\Debug\longestprefix.csproj.CoreCompileInputs.cache

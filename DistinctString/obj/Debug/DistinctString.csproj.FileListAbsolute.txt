@@ -1,0 +1,7 @@
+C:\cprog\Strings-ASSIGNMENT6\DistinctString\bin\Debug\DistinctString.exe.config
+C:\cprog\Strings-ASSIGNMENT6\DistinctString\bin\Debug\DistinctString.exe
+C:\cprog\Strings-ASSIGNMENT6\DistinctString\bin\Debug\DistinctString.pdb
+C:\cprog\Strings-ASSIGNMENT6\DistinctString\obj\Debug\DistinctString.csprojAssemblyReference.cache
+C:\cprog\Strings-ASSIGNMENT6\DistinctString\obj\Debug\DistinctString.csproj.CoreCompileInputs.cache
+C:\cprog\Strings-ASSIGNMENT6\DistinctString\obj\Debug\DistinctString.exe
+C:\cprog\Strings-ASSIGNMENT6\DistinctString\obj\Debug\DistinctString.pdb

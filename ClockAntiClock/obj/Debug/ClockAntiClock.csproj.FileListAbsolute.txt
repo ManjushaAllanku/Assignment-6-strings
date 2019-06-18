@@ -1,0 +1,7 @@
+C:\cprog\Dynamicprogramming\ClockAntiClock\bin\Debug\ClockAntiClock.exe.config
+C:\cprog\Dynamicprogramming\ClockAntiClock\bin\Debug\ClockAntiClock.exe
+C:\cprog\Dynamicprogramming\ClockAntiClock\bin\Debug\ClockAntiClock.pdb
+C:\cprog\Dynamicprogramming\ClockAntiClock\obj\Debug\ClockAntiClock.csprojAssemblyReference.cache
+C:\cprog\Dynamicprogramming\ClockAntiClock\obj\Debug\ClockAntiClock.csproj.CoreCompileInputs.cache
+C:\cprog\Dynamicprogramming\ClockAntiClock\obj\Debug\ClockAntiClock.exe
+C:\cprog\Dynamicprogramming\ClockAntiClock\obj\Debug\ClockAntiClock.pdb
